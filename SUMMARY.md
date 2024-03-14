@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🖌️ Getting started](README.md)
+* [Transform Risk into Opportunity!](README.md)
 
 ## INTRODUCTION
 
