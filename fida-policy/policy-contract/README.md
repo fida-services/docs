@@ -34,7 +34,7 @@ The Fida Contract Minting Policy produces two distinct types of tokens:
 * The policy token, distinguished by the `POLICY_ID` token name.
 * The Fida card token, identified with the `CARD` token name.
 
-These tokens are exclusively minted during the policy creation process and can be considered as non-fungible tokens (NFTs). The first token is utilized to label the UTxO storing the datum (`FidaContractDatum`) that describes the Fida Policy definition. On the other hand, the second token facilitates the creation of multiple Fida Card Tokens, with the quantity determined by a policy parameter. This mechanism serves to distribute shares among investors during the selling process.
+These tokens are exclusively minted during the policy creation process and can be considered as non-fungible tokens (NFTs). The first token is utilized to label the UTxO storing the datum - `FidaContractDatum`that describes the Fida Policy definition. On the other hand, the second token facilitates the creation of multiple Fida Card Tokens, with the quantity determined by a policy parameter. This mechanism serves to distribute shares among investors during the selling process.
 
 ```haskell
 data FidaContractDatum = FidaContractDatum
@@ -124,7 +124,7 @@ The `contractState`, along with the `startDate` and `paymentIntervals`, defines 
 
 * `Initialized`: The contract has recently been created.
 * `OnRisk`: The entire collateral has been provided (all Fida cards have been sold), and the `startDate` has been correctly initialized.
-* `Finished`: The policy has reached its end date, meaning that the `contractState` must be `OnRisk`, and the current date must be after `startDate + paymentInterval`.
+* `Expired`: The policy has reached its end date, meaning that the `contractState` must be `OnRisk`, and the current date must be after `startDate + paymentInterval`.
 
 ### Contract actions
 
@@ -136,4 +136,3 @@ data FidaContractRedeemer
 ```
 
 TODO
-

@@ -9,12 +9,14 @@
 
 ## Fida Policy
 
-* [Policy Contract](fida-policy/policy-contract.md)
+* [Policy Contract](fida-policy/policy-contract/README.md)
+  * [Policy Discovery](fida-policy/policy-contract/policy-discovery.md)
+  * [Policy Expiration](fida-policy/policy-contract/policy-expiration.md)
 * [Policy Life Cycle](fida-policy/policy-life-cycle/README.md)
-  * [Create Policy](fida-policy/policy-life-cycle/create-policy.md)
-  * [Buy Fida Cards](fida-policy/policy-life-cycle/buy-fida-cards.md)
-  * [Start Policy](fida-policy/policy-life-cycle/start-policy.md)
-  * [Pay Premium](fida-policy/policy-life-cycle/pay-premium.md)
-  * [Create a Claim](fida-policy/policy-life-cycle/create-a-claim.md)
-  * [Claim a Claim](fida-policy/policy-life-cycle/claim-a-claim.md)
-  * [Finalize Policy](fida-policy/policy-life-cycle/finalize-policy.md)
+  * [Policy Initiated](fida-policy/policy-life-cycle/policy-initiated.md)
+  * [Policy Funding](fida-policy/policy-life-cycle/policy-funding.md)
+  * [Policy at Risk](fida-policy/policy-life-cycle/policy-at-risk/README.md)
+    * [Pay Premium](fida-policy/policy-life-cycle/policy-at-risk/pay-premium.md)
+    * [Create a Claim](fida-policy/policy-life-cycle/policy-at-risk/create-a-claim.md)
+    * [Claim a Claim](fida-policy/policy-life-cycle/policy-at-risk/claim-a-claim.md)
+  * [Policy Expiration](fida-policy/policy-life-cycle/policy-expiration.md)
