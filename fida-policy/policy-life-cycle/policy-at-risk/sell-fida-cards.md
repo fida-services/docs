@@ -1,0 +1,3 @@
+# Sell Fida Cards
+
+Each investor has the option to sell their Fida Cards token on third-party marketplaces. To initiate this process, the investor must first claim a Fida Cards token and add it to their wallet. As part of this procedure, the corresponding collateral linked with the tokens is transferred to the Fida policy script. Consequently, the investor will cease to earn rewards from staking the collateral and will no longer be eligible to claim a premium. Conversely, when another investor purchases a Fida Cards token, they must transfer it back to their investor script along with the collateral previously deposited into the Fida policy script. Following this, they can claim a premium and earn rewards by staking the collateral within their investor script.

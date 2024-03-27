@@ -83,7 +83,7 @@ The `fidaCardValue` is in `Lovelace` and signifies the worth of a single share u
 
 #### premiumAmount
 
-The `premiumAmount`, represents the price of a policy in `Lovelace`. This sum must be met by the policy owner, who wants to purchase the policy. The premium amount can be paid in installments each month, with the number of intervals specified by `paymentIntervals`.
+The `premiumAmount`, represents the price of a policy in `Lovelace`. This sum must be met by the policy owner, who wants to purchase the policy. The premium amount must be paid in advance before the policy transitions to the founding phase.
 
 #### policyHolder
 
@@ -112,7 +112,7 @@ The `startDate` indicates the date from which the policy is considered to be at 
 
 #### paymentIntervals
 
-The `paymentIntervals` parameter governs the number of payments made by the policy holder since the policy became active. Together with the `startDate`, these intervals determine the policy end date, marking when the policy concludes.
+The `paymentIntervals` parameter governs the number of payments made to investors since the policy was initiated. Together with the `startDate`, these intervals determine the policy end date, marking when the policy concludes. Payments are made on a monthly basis at the month's end.
 
 #### contractState
 

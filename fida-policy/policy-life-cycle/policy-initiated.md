@@ -14,4 +14,4 @@ Required parameters:
 Please note that when creating a policy, we do not establish a start date indicating when the policy is at risk.
 {% endhint %}
 
-While the policy is in the `Initiated` state, it can be canceled without any consequences. All collateral will be returned to the investors, and the policy owner will not face any charges for the cancellation.
+While the policy is in the `Initiated` state, it can be canceled without any consequences. The policy owner will not face any charges for the cancellation.
