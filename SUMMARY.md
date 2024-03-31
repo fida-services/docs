@@ -1,11 +1,8 @@
 # Table of contents
 
-* [Transform Risk into Opportunity!](README.md)
-
 ## INTRODUCTION
 
-* [Design Principles](introduction/design-principles.md)
-* [Accessibility](introduction/accessibility.md)
+* [Transform Risk into Opportunity!](README.md)
 
 ## Fida Policy
 
@@ -35,3 +32,7 @@
   * [Earning premium](investors/investor-income/earning-premium.md)
   * [Staking](investors/investor-income/staking.md)
 * [Investor Discovery](investors/investor-discovery.md)
+
+## Fida Token
+
+* [FIDA Token Utility](fida-token/fida-token-utility.md)
