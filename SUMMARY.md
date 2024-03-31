@@ -3,6 +3,8 @@
 ## INTRODUCTION
 
 * [Transform Risk into Opportunity!](README.md)
+* [Whitepaper](introduction/whitepaper.md)
+* [Follow Us](introduction/follow-us.md)
 
 ## Fida Policy
 
