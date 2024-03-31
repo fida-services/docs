@@ -1,3 +1,3 @@
 # Registration
 
-TODO
+The first step for an investor to participate in the Fida ecosystem is to register. Registration initializes the investor script with the provided public key and deposits a special beacon coin inside the investor script. To complete the registration, the investor must pay a fee in the form of collateral, which can be reclaimed after closing the account. During registration, the investor can decide whether to enable staking in the investor script. If investor opt for staking, he will need to perform a transaction to register stake credentials and select the stake pool to delegate deposited Ada in his investor script. This process also involves paying a fee in the form of collateral, which can be reclaimed if investor change his mind.
