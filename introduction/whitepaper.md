@@ -4,6 +4,6 @@ description: >-
   motivations behind Fida
 ---
 
-# Whitepaper
+# 🗞️ Whitepaper
 
 {% file src="../.gitbook/assets/Fida litepaper.pdf" %}

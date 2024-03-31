@@ -2,7 +2,7 @@
 description: Fida Risk Transfer Protocol Overview
 ---
 
-# Transform Risk into Opportunity!
+# 💫 Transform Risk into Opportunity!
 
 The Fida Risk Transfer Protocol decentralizes risk. In so doing, it makes insurance liquid, safe, and efficient for everyone. Users receive coverage on submitted policies, earn premiums from policy payments and collect fees of protocol usage.
 

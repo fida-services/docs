@@ -2,9 +2,10 @@
 
 ## INTRODUCTION
 
-* [Transform Risk into Opportunity!](README.md)
-* [Whitepaper](introduction/whitepaper.md)
-* [Follow Us](introduction/follow-us.md)
+* [💫 Transform Risk into Opportunity!](README.md)
+* [🗞️ Whitepaper](introduction/whitepaper.md)
+* [✨ Core Values](introduction/core-values.md)
+* [📬 Contact Us](introduction/contact-us.md)
 
 ## Fida Policy
 
@@ -12,11 +13,11 @@
 * [Policy Life Cycle](fida-policy/policy-life-cycle/README.md)
   * [Policy Initiated](fida-policy/policy-life-cycle/policy-initiated.md)
   * [Policy Funding](fida-policy/policy-life-cycle/policy-funding.md)
-  * [Policy at Risk](fida-policy/policy-life-cycle/policy-at-risk/README.md)
-    * [Claim Premium](fida-policy/policy-life-cycle/policy-at-risk/claim-premium.md)
-    * [Sell Fida Cards](fida-policy/policy-life-cycle/policy-at-risk/sell-fida-cards.md)
-    * [Create a Claim](fida-policy/policy-life-cycle/policy-at-risk/create-a-claim.md)
-    * [Claim a Claim](fida-policy/policy-life-cycle/policy-at-risk/claim-a-claim.md)
+  * [Policy on Risk](fida-policy/policy-life-cycle/policy-on-risk/README.md)
+    * [Collect Premium](fida-policy/policy-life-cycle/policy-on-risk/collect-premium.md)
+    * [Sell Fida Cards](fida-policy/policy-life-cycle/policy-on-risk/sell-fida-cards.md)
+    * [Create a Claim](fida-policy/policy-life-cycle/policy-on-risk/create-a-claim.md)
+    * [Finalize a Claim](fida-policy/policy-life-cycle/policy-on-risk/finalize-a-claim.md)
   * [Policy Expiration](fida-policy/policy-life-cycle/policy-expiration.md)
 * [Policy Discovery](fida-policy/policy-discovery.md)
 
@@ -37,4 +38,4 @@
 
 ## Fida Token
 
-* [FIDA Token Utility](fida-token/fida-token-utility.md)
+* [🎖️ FIDA Token Utility](fida-token/fida-token-utility.md)

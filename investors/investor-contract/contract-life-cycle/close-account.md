@@ -1,3 +1,3 @@
 # Close Account
 
-The investor can only close their account if the premium pool is empty and there is no active participation in any policy.
+In order to close their account, an investor must first remove all their premium and fida cards from their investor portfolio. Investors must have no active participation in any policy.
