@@ -13,3 +13,8 @@ These pages document how we've structured the protocol and provide the resources
 Please join the [Fida Community Discord server](https://discord.gg/jjwnEKh8) to connect with the Fida Finance Core Team. We look forward to answering any of your questions and helping you integrate with and build on top of the Fida Risk Transfer Protocol.
 
 It's time to forget risk as we've known it.
+
+The key to this new revolution in risk transfer are two on chain contracts:
+
+* [The Fida Policy Contract](fida-policy/policy-contract.md)
+* [The Fida Investor Contract](investors/investor-contract.md)
