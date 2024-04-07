@@ -20,6 +20,7 @@
     * [Finalize a Claim](fida-policy/policy-life-cycle/policy-on-risk/finalize-a-claim.md)
   * [Policy Expiration](fida-policy/policy-life-cycle/policy-expiration.md)
 * [Policy Discovery](fida-policy/policy-discovery.md)
+* [Issuing Policy](fida-policy/issuing-policy.md)
 
 ## Investors
 
