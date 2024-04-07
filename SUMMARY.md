@@ -7,6 +7,11 @@
 * [✨ Core Values](introduction/core-values.md)
 * [📬 Contact Us](introduction/contact-us.md)
 
+## Usage
+
+* [Issuing a Policy](usage/issuing-a-policy.md)
+* [Command Line Interface](usage/command-line-interface.md)
+
 ## Fida Policy
 
 * [Policy Contract](fida-policy/policy-contract.md)
@@ -20,7 +25,6 @@
     * [Finalize a Claim](fida-policy/policy-life-cycle/policy-on-risk/finalize-a-claim.md)
   * [Policy Expiration](fida-policy/policy-life-cycle/policy-expiration.md)
 * [Policy Discovery](fida-policy/policy-discovery.md)
-* [Issuing Policy](fida-policy/issuing-policy.md)
 
 ## Investors
 
