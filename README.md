@@ -4,6 +4,8 @@ description: Fida Risk Transfer Protocol Overview
 
 # 💫 Transform Risk into Opportunity!
 
+You can think of Fida as a crowd funded reinsurance group.
+
 The Fida Risk Transfer Protocol decentralizes risk. In so doing, it makes insurance liquid, safe, and efficient for everyone. Users receive coverage on submitted policies, earn premiums from policy payments and collect fees of protocol usage.
 
 Our mission is to close the coverage gap, protecting those who would before not have access to insurance by unlocking a new insurance infrastructure within the web3 revolution.

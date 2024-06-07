@@ -5,6 +5,7 @@
 * [💫 Transform Risk into Opportunity!](README.md)
 * [🗞️ Whitepaper](introduction/whitepaper.md)
 * [✨ Core Values](introduction/core-values.md)
+* [🎴 Founder's NFT Collection](introduction/founders-nft-collection.md)
 * [📬 Contact Us](introduction/contact-us.md)
 
 ## Usage
