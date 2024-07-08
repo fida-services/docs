@@ -21,12 +21,9 @@ The whole team is on [discord](https://discord.gg/kFdXXBqwdu) as that is precise
 ## Other Channels
 
 * Link tree: [https://linktr.ee/fida\_finance](https://linktr.ee/fida\_finance)
+* Twitter (X): [https://x.com/fida\_finance](https://x.com/fida\_finance)
 * Medium articles: [https://medium.com/@fida.finance](https://medium.com/@fida.finance)
 * LinkedIn: [https://www.linkedin.com/company/fida-finance/](https://www.linkedin.com/company/fida-finance/)
 * Fida on Github: [https://github.com/fida-services/](https://github.com/fida-services/)
 * Discord invite link: [https://discord.gg/kFdXXBqwdu](https://discord.gg/kFdXXBqwdu)
-
-{% embed url="https://x.com/fida_finance" %}
-X.com
-{% endembed %}
 
