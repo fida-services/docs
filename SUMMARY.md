@@ -42,6 +42,10 @@
   * [Staking](investors/investor-income/staking.md)
 * [Investor Discovery](investors/investor-discovery.md)
 
+## 📡 MEDIA
+
+* [Library](media/library.md)
+
 ## 📚 Knowledge
 
 * [FAQ](knowledge/faq.md)
