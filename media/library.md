@@ -7,12 +7,12 @@ description: >-
 
 # Library
 
-## **Medium Articles:**&#x20;
+## Medium Articles:
 
-* Democratizing the Insurance Industry with Blockchain -[ ](https://medium.com/@fida.finance/democratizing-the-insurance-industry-through-blockchain-990700fd438f)[https://medium.com/@fida.finance/democratizing-the-insurance-industry-through-blockchain-990700fd438f](https://medium.com/@fida.finance/democratizing-the-insurance-industry-through-blockchain-990700fd438f)
-* Risk Cards: Powering FIDA’s Blockchain Revolution in Insurance - [https://medium.com/@fida.finance/risk-cards-powering-fidas-blockchain-revolution-in-insurance-160cdb3f84a9](https://medium.com/@fida.finance/risk-cards-powering-fidas-blockchain-revolution-in-insurance-160cdb3f84a9)
+* [Democratizing the Insurance Industry with Blockchain](https://medium.com/@fida.finance/democratizing-the-insurance-industry-through-blockchain-990700fd438f)
+* [Risk Cards: Powering FIDA’s Blockchain Revolution in Insurance](https://medium.com/@fida.finance/risk-cards-powering-fidas-blockchain-revolution-in-insurance-160cdb3f84a9)
 
-## **Interviews on X Spaces:**&#x20;
+## Interviews on X Spaces:
 
 * [Walkers NFT (@WalkersCNFT)](https://x.com/walkerscnft/status/1810426413713141963?s=61)
 * [Sneks On Chain (@SneksOnChain)](https://x.com/fidgetybeast/status/1809212291377725892?s=46)
@@ -22,12 +22,8 @@ description: >-
 * [Cardano Over Coffee Space (@coc\_space)](https://x.com/coc\_space/status/1711541906612551793?s=61)
 * [Swarm Space (@CatalystSwarm)](https://x.com/catalystswarm/status/1808878262195528032?s=61)
 
-## **FiDa On YouTube:**&#x20;
+## FiDa On YouTube:
 
 * [Battle of the Builders 2023 Pitch](https://www.youtube.com/watch?v=vP\_qZpgFFmc)
 * [EU Cardano 2023 Interview with the FiDa Team](https://www.youtube.com/watch?v=ceB0g7rUFFQ)
 * [Insurance on Blockchain! How You Can Benefit & Profit - Fida Finance](https://www.youtube.com/watch?v=zax2rKbBBLk)
-
-
-
-[](https://youtu.be/zax2rKbBBLk?si=cXot0Ga6GQr6\_nufhttps://youtu.be/ceB0g7rUFFQ?si=jldXkhDg6W\_u2Dtchttps://youtu.be/vP\_qZpgFFmc?si=8sjMSk\_Q1Yay1-KT)
