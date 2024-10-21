@@ -10,7 +10,7 @@ The Fida Founders NFT Collection offers a range of exclusive benefits that set i
 
 ## For Everyone:
 
-### **Early Access to the Fida System**
+### Early Access to the Fida System
 
 As a holder of the Fida Founders NFT, you will be invited to the private testnet. This early access allows you to familiarize yourself with the platform, navigate its features, and most importantly influence its development through feature requests and user experience suggestions.
 
@@ -28,109 +28,107 @@ As fida continues to decentralize, the operation of Fida nodes will be fully dec
 
 <summary>List of Node Operator Cards</summary>
 
-*
-
-    | Founder# | Name         | Era        |
-    | -------- | ------------ | ---------- |
-    | #0001    | Conteh       | Greek      |
-    | #0301    | Sadeghi      | Greek      |
-    | #0501    | Sarigianides | Babylonian |
-    | #0251    | Agrusa       | Chinese    |
-    | #0051    | Siggard      | Parametric |
-    | #0551    | Ziv          | Egyptian   |
-    | #0901    | Grandy       | Roman      |
-    | #0601    | Damon        | Modern     |
-    | #0451    | Noam         | Persian    |
-    | #0511    | Mourshaki    | Greek      |
-    | #0011    | Guinn        | Modern     |
-    | #0111    | Glafira      | Parametric |
-    | #0261    | Jucal        | Babylonian |
-    | #0311    | Conifer      | Babylonian |
-    | #0061    | Amphitrite   | Persian    |
-    | #0911    | Tohnja       | Parametric |
-    | #0461    | Lorell       | Babylonian |
-    | #0561    | Frechette    | Greek      |
-    | #0611    | Tiasa        | Persian    |
-    | #0521    | Gneckow      | Parametric |
-    | #0021    | Kissel       | Fida       |
-    | #0471    | Rifkind      | Babylonian |
-    | #0121    | Thalia       | Egyptian   |
-    | #0321    | Culjak       | Babylonian |
-    | #0071    | Nakeya       | Greek      |
-    | #0921    | Mahallati    | Roman      |
-    | #0271    | Tarragon     | Egyptian   |
-    | #0571    | Twila        | Persian    |
-    | #0621    | Arazga       | Modern     |
-    | #0531    | Elimu        | Parametric |
-    | #0481    | Ervin        | Modern     |
-    | #0131    | Cantil       | Parametric |
-    | #0031    | Latre        | Greek      |
-    | #0281    | Choudhary    | Modern     |
-    | #0081    | Biswas       | Babylonian |
-    | #0331    | Fox          | Persian    |
-    | #0931    | Coronis      | Modern     |
-    | #0581    | Nea          | Persian    |
-    | #0631    | Klaffiki     | Modern     |
-    | #0491    | Penelope     | Fida       |
-    | #0541    | Lezine       | Persian    |
-    | #0141    | Udai         | Greek      |
-    | #0041    | Notus        | Greek      |
-    | #0091    | Kasulis      | Modern     |
-    | #0291    | Kalara       | Babylonian |
-    | #0941    | Rokerya      | Parametric |
-    | #0341    | Valvoda      | Chinese    |
-    | #0591    | Gogliardi    | Egyptian   |
-    | #0401    | Arooj        | Modern     |
-    | #0641    | Chibinda     | Babylonian |
-    | #0651    | Kakia        | Roman      |
-    | #0801    | Pulliam      | Fida       |
-    | #0151    | Chazan       | Roman      |
-    | #0351    | Griesa       | Fida       |
-    | #0201    | Camp         | Persian    |
-    | #0411    | Carmi        | Egyptian   |
-    | #0661    | Ricono       | Egyptian   |
-    | #0361    | Houdek       | Roman      |
-    | #0811    | Soci         | Roman      |
-    | #0161    | Science      | Roman      |
-    | #0211    | Dolan        | Egyptian   |
-    | #0421    | Ishisaka     | Persian    |
-    | #0171    | Novoa        | Fida       |
-    | #0371    | Mariloly     | Persian    |
-    | #0821    | Boever       | Greek      |
-    | #0431    | Maioho       | Parametric |
-    | #0671    | Zanzone      | Parametric |
-    | #0221    | Sirota       | Egyptian   |
-    | #0441    | Steefel      | Persian    |
-    | #0381    | Neupert      | Modern     |
-    | #0181    | Lancy        | Parametric |
-    | #0831    | Fisk         | Parametric |
-    | #0231    | Zitter       | Parametric |
-    | #0681    | Bracher      | Parametric |
-    | #0391    | Markle       | Greek      |
-    | #0751    | Tyahi        | Persian    |
-    | #0191    | Makino       | Chinese    |
-    | #0841    | Simeri       | Egyptian   |
-    | #0241    | Soifer       | Egyptian   |
-    | #0691    | Balban       | Egyptian   |
-    | #0761    | Jerd         | Roman      |
-    | #0851    | Zane         | Fida       |
-    | #0701    | Seidl        | Parametric |
-    | #0771    | Hercules     | Chinese    |
-    | #0861    | Omeed        | Persian    |
-    | #0711    | Uhland       | Parametric |
-    | #0781    | Zogby        | Egyptian   |
-    | #0871    | Fiebich      | Modern     |
-    | #0791    | Slavik       | Chinese    |
-    | #0721    | Euporia      | Chinese    |
-    | #0881    | Vuelo        | Babylonian |
-    | #0731    | Alivan       | Parametric |
-    | #0891    | Eppink       | Egyptian   |
-    | #0741    | Issi         | Parametric |
-    | #0951    | Meldrim      | Roman      |
-    | #0961    | Garraux      | Parametric |
-    | #0971    | Matsuura     | Fida       |
-    | #0981    | Nagata       | Modern     |
-    | #0991    | Aug          | Parametric |
+| Founder# | Name         | Era        |
+| -------- | ------------ | ---------- |
+| #0001    | Conteh       | Greek      |
+| #0301    | Sadeghi      | Greek      |
+| #0501    | Sarigianides | Babylonian |
+| #0251    | Agrusa       | Chinese    |
+| #0051    | Siggard      | Parametric |
+| #0551    | Ziv          | Egyptian   |
+| #0901    | Grandy       | Roman      |
+| #0601    | Damon        | Modern     |
+| #0451    | Noam         | Persian    |
+| #0511    | Mourshaki    | Greek      |
+| #0011    | Guinn        | Modern     |
+| #0111    | Glafira      | Parametric |
+| #0261    | Jucal        | Babylonian |
+| #0311    | Conifer      | Babylonian |
+| #0061    | Amphitrite   | Persian    |
+| #0911    | Tohnja       | Parametric |
+| #0461    | Lorell       | Babylonian |
+| #0561    | Frechette    | Greek      |
+| #0611    | Tiasa        | Persian    |
+| #0521    | Gneckow      | Parametric |
+| #0021    | Kissel       | Fida       |
+| #0471    | Rifkind      | Babylonian |
+| #0121    | Thalia       | Egyptian   |
+| #0321    | Culjak       | Babylonian |
+| #0071    | Nakeya       | Greek      |
+| #0921    | Mahallati    | Roman      |
+| #0271    | Tarragon     | Egyptian   |
+| #0571    | Twila        | Persian    |
+| #0621    | Arazga       | Modern     |
+| #0531    | Elimu        | Parametric |
+| #0481    | Ervin        | Modern     |
+| #0131    | Cantil       | Parametric |
+| #0031    | Latre        | Greek      |
+| #0281    | Choudhary    | Modern     |
+| #0081    | Biswas       | Babylonian |
+| #0331    | Fox          | Persian    |
+| #0931    | Coronis      | Modern     |
+| #0581    | Nea          | Persian    |
+| #0631    | Klaffiki     | Modern     |
+| #0491    | Penelope     | Fida       |
+| #0541    | Lezine       | Persian    |
+| #0141    | Udai         | Greek      |
+| #0041    | Notus        | Greek      |
+| #0091    | Kasulis      | Modern     |
+| #0291    | Kalara       | Babylonian |
+| #0941    | Rokerya      | Parametric |
+| #0341    | Valvoda      | Chinese    |
+| #0591    | Gogliardi    | Egyptian   |
+| #0401    | Arooj        | Modern     |
+| #0641    | Chibinda     | Babylonian |
+| #0651    | Kakia        | Roman      |
+| #0801    | Pulliam      | Fida       |
+| #0151    | Chazan       | Roman      |
+| #0351    | Griesa       | Fida       |
+| #0201    | Camp         | Persian    |
+| #0411    | Carmi        | Egyptian   |
+| #0661    | Ricono       | Egyptian   |
+| #0361    | Houdek       | Roman      |
+| #0811    | Soci         | Roman      |
+| #0161    | Science      | Roman      |
+| #0211    | Dolan        | Egyptian   |
+| #0421    | Ishisaka     | Persian    |
+| #0171    | Novoa        | Fida       |
+| #0371    | Mariloly     | Persian    |
+| #0821    | Boever       | Greek      |
+| #0431    | Maioho       | Parametric |
+| #0671    | Zanzone      | Parametric |
+| #0221    | Sirota       | Egyptian   |
+| #0441    | Steefel      | Persian    |
+| #0381    | Neupert      | Modern     |
+| #0181    | Lancy        | Parametric |
+| #0831    | Fisk         | Parametric |
+| #0231    | Zitter       | Parametric |
+| #0681    | Bracher      | Parametric |
+| #0391    | Markle       | Greek      |
+| #0751    | Tyahi        | Persian    |
+| #0191    | Makino       | Chinese    |
+| #0841    | Simeri       | Egyptian   |
+| #0241    | Soifer       | Egyptian   |
+| #0691    | Balban       | Egyptian   |
+| #0761    | Jerd         | Roman      |
+| #0851    | Zane         | Fida       |
+| #0701    | Seidl        | Parametric |
+| #0771    | Hercules     | Chinese    |
+| #0861    | Omeed        | Persian    |
+| #0711    | Uhland       | Parametric |
+| #0781    | Zogby        | Egyptian   |
+| #0871    | Fiebich      | Modern     |
+| #0791    | Slavik       | Chinese    |
+| #0721    | Euporia      | Chinese    |
+| #0881    | Vuelo        | Babylonian |
+| #0731    | Alivan       | Parametric |
+| #0891    | Eppink       | Egyptian   |
+| #0741    | Issi         | Parametric |
+| #0951    | Meldrim      | Roman      |
+| #0961    | Garraux      | Parametric |
+| #0971    | Matsuura     | Fida       |
+| #0981    | Nagata       | Modern     |
+| #0991    | Aug          | Parametric |
 
 </details>
 
