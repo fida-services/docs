@@ -12,6 +12,7 @@
 
 * [Issuing a Policy](usage/issuing-a-policy.md)
 * [Command Line Interface](usage/command-line-interface/README.md)
+  * [Policy Management](usage/command-line-interface/policy-management.md)
   * [Claims Management](usage/command-line-interface/claims-management.md)
 
 ## Fida Policy
