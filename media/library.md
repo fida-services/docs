@@ -22,8 +22,14 @@ description: >-
 * [Cardano Over Coffee Space (@coc\_space)](https://x.com/coc\_space/status/1711541906612551793?s=61)
 * [Swarm Space (@CatalystSwarm)](https://x.com/catalystswarm/status/1808878262195528032?s=61)
 
+## Shorts:
+
+* [What Fida offers Regulators - Web3 Media](https://www.youtube.com/shorts/O3-B4lsKBuU)
+* [Insurance is not a luxury it is a right](https://drive.google.com/file/d/1V3MzE6-RdPSFhQEs64m0\_UW0yGzMiolz/view?usp=drive\_link)
+
 ## FiDa On YouTube:
 
 * [Battle of the Builders 2023 Pitch](https://www.youtube.com/watch?v=vP\_qZpgFFmc)
 * [EU Cardano 2023 Interview with the FiDa Team](https://www.youtube.com/watch?v=ceB0g7rUFFQ)
 * [Insurance on Blockchain! How You Can Benefit & Profit - Fida Finance](https://www.youtube.com/watch?v=zax2rKbBBLk)
+* [Why decentralized Insurance is desperately needed - Pitch Point Interview](https://www.youtube.com/watch?v=2Bv2Ds4My9s\&t=26s\&ab\_channel=TheMedia3Report)
