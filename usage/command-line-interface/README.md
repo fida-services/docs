@@ -10,5 +10,5 @@ Of the three main actors involved: the policy broker, policy owner, and investor
 
 Investors, utilizing the `cli`, can search the blockchain for a Fida Policy available for funding and contribute to the funding by purchasing a Fida Card Policy through the issuance of an appropriate transaction. On the other hand, the policy owner can monitor the progress of the funding phase using the `cli` by querying the blockchain for specific policy information or obtaining a list of all policies in which they are the owner. Once the policy is fully funded, the policy broker, upon contacting the client, triggers a Fida Policy state transition, and the policy becomes "on risk" from that point onward.
 
-The commands on the `cli` match the labeled transition methods which would move the policy contracts and investor contracts.
+The commands on the `cli` match the labeled transition methods which would move the policy contracts and investor contracts. You can read more about [policy-management.md](policy-management.md "mention") and [claims-management.md](claims-management.md "mention") in their respective sections.
 
