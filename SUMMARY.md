@@ -8,6 +8,15 @@
 * [🎴 Founder's NFT Collection](introduction/founders-nft-collection.md)
 * [📬 Contact Us](introduction/contact-us.md)
 
+***
+
+* [Collaborators](collaborators/README.md)
+  * [Charli3](collaborators/charli3.md)
+  * [Genwealth](collaborators/genwealth.md)
+  * [Larissa Health](collaborators/larissa-health.md)
+  * [Vitalis](collaborators/vitalis.md)
+  * [Walkers](collaborators/walkers.md)
+
 ## Usage
 
 * [Issuing a Policy](usage/issuing-a-policy.md)
