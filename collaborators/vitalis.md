@@ -1,7 +1,7 @@
 ---
 description: >-
   Vitalis is a thing only possible in web3, a fully decentralized Term Life
-  Insurance and Health Collective Project.
+  Savings and Health Collective Project.
 ---
 
 # Vitalis
@@ -96,7 +96,6 @@ _This whitepaper is the first step in a journey toward a decentralized, equitabl
 
 ***
 
-**Vitalis Collective**\
-
+**Vitalis Collective**<br>
 
 _Decentralizing Life, One Token at a Time_

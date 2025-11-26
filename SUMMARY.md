@@ -16,6 +16,7 @@
   * [Larissa Health](collaborators/larissa-health.md)
   * [Vitalis](collaborators/vitalis.md)
   * [Walkers](collaborators/walkers.md)
+  * [Sundial](collaborators/sundial.md)
 
 ## Usage
 
